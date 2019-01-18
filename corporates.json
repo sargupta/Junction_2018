@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "type": "corporate",
+   "id": "5183058219106304",
+   "name": "Ncrypted Technologies Oy",
+   "shortDescription": "Software Products, Solutions, Consultancy and Advisory",
+   "description": "NCrypted is a startup enabler and provides ready-to-go products and innovative solutions to startups and small-to-medium scale businesses in 90+ countries.",
+   "website": "https://www.ncrypted.com",
+   "city": "Helsinki",
+   "country": "Finland",
+   "logo": {
+    "id": "5165166324875264",
+    "imageServiceUrl": "https://lh3.googleusercontent.com/q4UzXspjozI57VSPUnt09Fe7jAjjWX9sX3tDyVj5DauW8R86UOYLpmuZMdKQUmLKXAXVHdlaTVEMu3dLCD28YxwM2S4Q7sRhypB0",
+    "fileName": "logo.jpg"
+   },
+   "published": true,
+   "industries": [
+    "entertainment_and_media",
+    "education",
+    "digital_health",
+    "on-demand_services",
+    "automotive_and_transportation",
+    "impact",
+    "logistics",
+    "social_entrepreneurship",
+    "cybersecurity",
+    "retail",
+    "hospitality_and_travel",
+    "financial_and_insurance",
+    "e-commerce",
+    "travel"
+   ],
+   "publishChallenges": false
+  },
+  {
+   "type": "corporate",
+   "id": "5671831268753408",
+   "name": "Newsec Asset Management Oy",
+   "shortDescription": "Full service real estate business solutions",
+   "description": "Newsec provides full service real estate business solutions for investors, owners, and anyone letting business premises. Our comprehensive property advisory service supports our clients in real estate transactions, leasing, real estate appraisals and various real estate specialist services, such as creating strategies for business premises and properties, managing business premises and space planning. Our Property Asset Management division provides expertise in real estate financial administration, and in managing properties and real estate assets.",
+   "city": "Helsinki",
+   "country": "Finland",
+   "logo": {
+    "id": "5689531432960000",
+    "imageServiceUrl": "https://lh3.googleusercontent.com/VWT3kFO4sDPmdgllWUBfdOfO3n-FRus8d2eqIBnTbz74T6Vrwp-KL2Yp0u1ynXxXI3T3XY_YZm3bH9JGTIXZlrsXPBG-G4kC4P1_",
+    "fileName": "newsec_logotype.png"
+   },
+   "published": true,
+   "publishChallenges": false
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+HEAVY EQUIPMENT An estimated billion people in more than 60 countries step onto a KONE elevator or escalator every day. Its big people-lifting machines are a representative example of the A.I. overhaul underway in businesses that make and service heavy equipment.
+The Finland-based multinational is using IBM’s Watson software to constantly monitor the performance of its machines. Low-cost sensors, wireless communications, cloud computing and A.I. software are the technical ingredients that make the change possible now.
+KONE’s new equipment is being made with the sensors and wireless links, while its older models are being retrofitted. Data streams off each machine, every second, providing measurements that include vibration, leveling, braking, temperature, door openings and cargo weight.
+The data is fed into the A.I. software, which looks for telltale signals that a machine is in need of maintenance or a new part, before it fails. “You go from being reactive to proactive and predictive,” said Larry Wash, an executive vice president of KONE.
+The results on the elevators deploying the new technology so far are encouraging. There are 25 percent fewer breakdowns and 60 percent fewer customer reports of problems than on elevators serviced on traditional maintenance schedules.
+
